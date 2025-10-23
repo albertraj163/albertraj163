@@ -49,6 +49,11 @@ Python | C | Java | HTML | CSS | SQL | PHP | Assembly Language
 | **Car Price Prediction** | Machine learning model to predict car prices using Python and scikit-learn | [🔗 View Project](https://github.com/albertraj163/car-price-prediction) |
 | **Expense Sharing App** | Full-stack expense manager built using Flask and SQLite | [🔗 View Project](https://github.com/albertraj163/expense-sharing-app) |
 | **Tesla Stock Forecasting (LSTM)** | LSTM-based deep learning model for stock prediction | [🔗 View Project](https://github.com/albertraj163/tesla-stock-lstm) |
+| **Sentiment Transformers** | Sentiment analysis using DistilBERT (Transformers) | [🔗 View Project](https://github.com/albertraj163/sentiment-transformers) |
+| **Image Classification (CNN)** | CNN model on CIFAR-10 dataset using TensorFlow/Keras | [🔗 View Project](https://github.com/albertraj163/image-classification-cnn) |
+| **Resume Parser (NLP)** | Extract name, email, and skills from resumes using spaCy | [🔗 View Project](https://github.com/albertraj163/resume-parser-nlp) |
+| **Spam Email Classifier** | Detect spam or ham using TF-IDF and Naive Bayes | [🔗 View Project](https://github.com/albertraj163/spam-email-classifier) |
+| **Movie Recommender** | Recommend movies using user-based collaborative filtering | [🔗 View Project](https://github.com/albertraj163/movie-recommender) |
 
 ---
 
