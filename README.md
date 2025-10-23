@@ -44,11 +44,11 @@ Python | C | Java | HTML | CSS | SQL | PHP | Assembly Language
 
 > _Currently uploading my key projects — stay tuned for upcoming repositories!_
 
-| Project Title | Description | Status |
-|----------------|-------------|---------|
-| Car Price Prediction | Predicting car prices using data preprocessing and regression models | 🚧 Uploading Soon |
-| Expense Sharing App | Full-stack expense manager inspired by Google Pay | 🚧 Uploading Soon |
-| Tesla Stock Forecasting (LSTM) | LSTM-based deep learning model for stock prediction | 🚧 Uploading Soon |
+| Project Title | Description | Link |
+|----------------|-------------|------|
+| **Car Price Prediction** | Machine learning model to predict car prices using Python and scikit-learn | [🔗 View Project](https://github.com/albertraj163/car-price-prediction) |
+| **Expense Sharing App** | Full-stack expense manager built using Flask and SQLite | [🔗 View Project](https://github.com/albertraj163/expense-sharing-app) |
+| **Tesla Stock Forecasting (LSTM)** | LSTM-based deep learning model for stock prediction | [🔗 View Project](https://github.com/albertraj163/tesla-stock-lstm) |
 
 ---
 
