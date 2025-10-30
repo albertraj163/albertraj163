@@ -30,7 +30,7 @@ I focus on designing practical ML systems, debugging models, and delivering data
 ## 💻 Technical Proficiency
 
 **Languages (Basics):**  
-Python | C | Java | HTML | CSS | SQL | PHP | Assembly Language  
+Python | C | Java | HTML | MACHINE LEARNING | DEEP LEARNING | COMPUTER VISION |
 
 **Tools & Frameworks:**  
 - Python Libraries: NumPy, pandas, scikit-learn, TensorFlow, PyTorch (basic)  
